@@ -1,0 +1,11 @@
+Class Towel ; Instance Beach Towel
+
+material "terryCloth"
+colour ["purple", "yellow", "white"]
+style "beachTowel"
+length 6.4
+
+fold (changes length to 3.2)
+fade (changes colour array to ["purple", "white"])
+rip (changes style to "rag")
+wipe (modifies colour array to ["purple", "white", "gray"])
