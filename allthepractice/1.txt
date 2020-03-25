@@ -2,14 +2,14 @@ Class Towel
 
 Attributes
 
-Material (string)
-Colour (array)
-Style (string)
-Length (float)
+material (string)
+colour (array)
+style (string)
+length (float)
 
 Methods
 
-fold (modifies the length float)
-fade (modifies the colour array)
-rip (modifies the style string)
-wipe (modifies the colour array)
+fold (modifies the length)
+fade (changes the colour attribute)
+rip (modifies the style)
+wipe (modifies the colour attribute)
