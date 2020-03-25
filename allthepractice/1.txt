@@ -1,0 +1,15 @@
+Class Towel
+
+Attributes
+
+Material (string)
+Colour (array)
+Style (string)
+Length (float)
+
+Methods
+
+fold (modifies the length float)
+fade (modifies the colour array)
+rip (modifies the style string)
+wipe (modifies the colour array)
